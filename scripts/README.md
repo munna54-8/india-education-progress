@@ -25,4 +25,4 @@ The apparent literacy jump in 2023 (76.3% → 81.7%) followed by a pullback in 2
 Python, Pandas, World Bank API, Chart.js
 
 ## Dashboard
-[paste your GitHub Pages link here once live]
+https://munna54-8.github.io/india-education-progress/dashboard/india_education_dashboard.html
